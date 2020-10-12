@@ -1,0 +1,8 @@
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\bin\Debug\netcoreapp3.1\SuetiaeBlogg.Services.deps.json
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\bin\Debug\netcoreapp3.1\SuetiaeBlogg.Services.dll
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\bin\Debug\netcoreapp3.1\SuetiaeBlogg.Services.pdb
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\obj\Debug\netcoreapp3.1\SuetiaeBlogg.Services.AssemblyInfoInputs.cache
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\obj\Debug\netcoreapp3.1\SuetiaeBlogg.Services.AssemblyInfo.cs
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\obj\Debug\netcoreapp3.1\SuetiaeBlogg.Services.csproj.CoreCompileInputs.cache
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\obj\Debug\netcoreapp3.1\SuetiaeBlogg.Services.dll
+C:\Users\nilou\MyFolders\ITHogskolan\ITHS\Uppgift_6_V02\SuetiaeBlogg\SuetiaeBlogg.Services\obj\Debug\netcoreapp3.1\SuetiaeBlogg.Services.pdb
